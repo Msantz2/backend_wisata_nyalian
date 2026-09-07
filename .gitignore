@@ -1,0 +1,9 @@
+.env
+API_AUDIT_REPORT.md
+DATABASE_SCHEMA.md
+database_schema.sql
+FRONTEND_INTEGRATION_GUIDE.md
+POSTMAN_COLLECTION.md
+QUICK_REFERENCE.txt
+
+/node_modules
